@@ -1,5 +1,5 @@
-# FOC-Controller
-设计参考了斯坦福大学四足机器人Doggo的硬件设计ODrive  
+# Creeper爬行者
+本设计参考斯坦福大学四足机器人Doggo的硬件设计ODrive  
 
 **本项目软硬件完全开源**  
 目前已完成硬件初步设计方案  
