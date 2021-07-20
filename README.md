@@ -1,4 +1,4 @@
-# Creeper爬行者
+# Creeper爬行者BLDC/PMSM无刷电机驱动器  
 本设计参考斯坦福大学四足机器人Doggo的硬件设计ODrive  
 
 **本项目软硬件完全开源**  
