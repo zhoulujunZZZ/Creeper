@@ -5,7 +5,7 @@
 * 斯坦福大学四足机器人Doggo-ODrive  
 * 立创EDA-ART-Pi  
 ## 用户手册  
-* 详见Creeper_Readme.pdf...  
+* 详见Creeper_Readme.pdf  
 ## 上位机软件  
 * Creeper Tool（开发中）  
 
