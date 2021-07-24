@@ -6,6 +6,8 @@
 * 立创EDA-ART-Pi  
 ## 用户手册  
 * 详见Creeper_Readme.pdf...  
+## 上位机软件  
+* Creeper Tool（开发中）  
 
 **本项目硬件及固件完全开源**  
 ## 目前已完成硬件第一代设计  
